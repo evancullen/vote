@@ -1,4 +1,6 @@
 # Vote App Frontend 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevancullen%2Fvote.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevancullen%2Fvote?ref=badge_shield)
+
 
 This is a frontend app, part of [Example Voting App](https://github.com/schoolofdevops/example-voting-app).  
 
@@ -12,3 +14,7 @@ To build and run this app as a container,
 
   
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevancullen%2Fvote.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevancullen%2Fvote?ref=badge_large)
